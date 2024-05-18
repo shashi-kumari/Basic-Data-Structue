@@ -1,4 +1,4 @@
-package DS;
+package DS.Arr;
 
 import java.util.Scanner;
 
