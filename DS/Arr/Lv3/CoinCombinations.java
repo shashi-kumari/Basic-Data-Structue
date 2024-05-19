@@ -1,4 +1,4 @@
-package DS.Arr.Lv2;
+package DS.Arr.Lv3;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ import java.util.Scanner;
  *     Output: 4
  *     Explanation: there are four solutions: {1, 1, 1, 1}, {1, 1, 2}, {2, 2}, {1, 3}.
  */
-public class Coincombinations {
+public class CoinCombinations {
     public static void main(String[] args) {
         int[] arr;
         int len;
